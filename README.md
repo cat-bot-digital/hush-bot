@@ -30,6 +30,7 @@ Once you see Hush Bot is online, the bot can be controlled by entering the ```!h
 Cat Bot Digital
 - [Website](https://www.catbotdigital.com)
 - [GitHub Profile](https://github.com/cat-bot-digital)
+- [Discord](https://discord.gg/P3NkDHc)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
