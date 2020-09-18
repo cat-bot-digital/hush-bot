@@ -1,0 +1,31 @@
+{
+  "name": "hush-bot",
+  "version": "1.2.0",
+  "description": "Designed to be used with party games like Among Us and Town of Salem, Hush Bot is a Discord bot that allows you to mute everyone in the voice channel while game play occurs, then unmute them during discussion periods.",
+  "main": "hush.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat-bot-digital/hush-bot.git"
+  },
+  "keywords": [
+    "hush",
+    "bot",
+    "discord",
+    "among us",
+    "town of salem"
+  ],
+  "author": "Cat Bot Digital",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cat-bot-digital/hush-bot/issues"
+  },
+  "homepage": "https://github.com/cat-bot-digital/hush-bot#readme"
+}
