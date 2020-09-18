@@ -13,9 +13,9 @@ For information about using the code files to run your own bot, see the **Instal
 - [dotenv](https://www.npmjs.com/package/dotenv) version 8.2.0 or later - ```npm install dotenv```
 
 ### Configuration
-Get your bot's secret token from: https://discordapp.com/developers/applications/
+Rename ```.env.example``` to ```.env```.
 
-Click on your application -> Bot -> Token -> "Click to Reveal Token". Then copy and paste your token into the .env file where indicated.
+Get your bot's secret token from the [Discord Developer Portal](https://discordapp.com/developers/applications/). Click on your application -> Bot -> Token -> "Click to Reveal Token". Copy and paste your token into the .env file where indicated.
 
 ## Usage
 To add a Hush Bot to your Discord server, use the following link:
